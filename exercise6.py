@@ -1,5 +1,4 @@
 
-
 def shift_right(L):
     ''' (list) -> NoneType
 
@@ -53,7 +52,7 @@ def make_pairs(list1, list2):
     Precondition: len(list1) == len(list2)
     
     >>> make_pairs(['A', 'B', 'C'], [1, 2, 3])
-    [['A', 1], ['B', 2], ['C', 3]]
+    [['A', 1], ['B', 2], ['C', 3]] 
     '''
     
     pairs = []
