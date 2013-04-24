@@ -1,4 +1,4 @@
-# Needs to be tweaked, second word not capitalizing.
+# Needs to be tweaked, second word not capitalizing
 
 def capitalized(two_words):
     '''(str) -> str
