@@ -22,4 +22,4 @@ def common_chars(s1, s2):
         if ch in s2:
             res = res + ch
             
-    return res
+    return res 
