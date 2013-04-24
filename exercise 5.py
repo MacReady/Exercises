@@ -1,4 +1,4 @@
-# Not finished
+# Not finished yet
 
 def secret(s):
     i = 0
@@ -10,7 +10,7 @@ def secret(s):
 
     return result
 
-# Not finished
+# Not finished yet
 
 def example(L):
     ''' (list) -> list
