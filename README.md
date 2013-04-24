@@ -1,3 +1,3 @@
 Exercises
 
-A selection of functions created in for exercises 1-7.
+A selection of functions I coded  for exercises 1-7.
