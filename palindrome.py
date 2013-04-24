@@ -25,7 +25,7 @@ def reverse(s):
     """
     rev = ''
 
-    # For each character in s, add that char to the beginning of rev.
+    # For each character in s, add that char to the beginning of rev
     for ch in s:
         rev = ch + rev
 
